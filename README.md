@@ -2,6 +2,7 @@
 Statistical Basic Concept
 
 What is Normalization?
+
 Normalization is the process of scaling down data(in simple words). Usually while normalizing we change the scale of the data to fall between 0–1.
 
 
