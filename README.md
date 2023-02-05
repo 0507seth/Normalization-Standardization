@@ -12,3 +12,8 @@ Normalized Data Vs Standardized Data:
 2. Normalization scales in a range of [0,1] or [-1,1]. Standardization is not bounded by range.
 3. Normalization is highly affected by outliers. Standardization is slightly affected by outliers.
 4. Normalization is considered when the algorithms do not make assumptions about the data distribution. Standardization is used when algorithms make assumptions about the data distribution.
+
+
+Methods of Normalisation:
+1. normalize()
+2. MinMaxScalar()
